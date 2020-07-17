@@ -1,0 +1,8 @@
+[package]
+name = "v8-runtime"
+version = "0.0.1"
+authors = ["Divy Srivastava <dj.srivastava23@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rusty_v8 = "0.6.0"
